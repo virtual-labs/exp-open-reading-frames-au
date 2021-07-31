@@ -3,7 +3,7 @@
  
 
 * 1.  Provide a DNA sequence in user interface for finding ORF. For example provide a hypothetical sequence 
-CGCTACGTCTTACGCTGGAGCTCTCATGGATCGGTTCGGTAGGGCTCGATCACATCGCTAGCCAT 
+CGCTACGTCTTACGCTGGAGCTCTCATGGATCGGTTCGGTAGGGCTCGATCACATCGCTAGCCAT  
 
     <center><img src="images/4.png" title="" /></center>
 
