@@ -1,4 +1,26 @@
 
+**Procedure to Work Simulator**
+ 
+
+* 1.  Provide a DNA sequence in user interface for finding ORF. For example provide a hypothetical sequence 
+CGCTACGTCTTACGCTGGAGCTCTCATGGATCGGTTCGGTAGGGCTCGATCACATCGCTAGCCAT  
+
+    <center><img src="images/4.png" title="" /></center>
+
+* 2.	Click on Find ORF tab for executing simulator.
+
+* 3.	A default sequence file is provided in the user interface. User can download the file and can use the file as query sequence for finding ORF.
+
+
+ORF is a continuous stretch of codons with a start codon usually AUG and with a stop codons usually UAA, UAG or UGA.
+
+
+&ensp;
+
+**DIY**
+
+&ensp;
+
 Import “stringr” library to R workspace
 
                 library("stringr")
